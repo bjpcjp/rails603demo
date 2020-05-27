@@ -19,7 +19,9 @@
     - git add .
     - git commit -m "init"
     - git push -u origin master
-    - (remove extraneous comments in Gemfile)
+    - Gem file edits:
+        + remove extra comments
+        + added rails-controller-testing, minitest, minitest-reporters, guard, guard-minitest to :test group
     
     ## Ruby
     
